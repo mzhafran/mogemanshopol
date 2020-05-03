@@ -1,0 +1,26 @@
+#container {
+	background-image: url(regisw.jpg);
+	width: 100%;
+	height: 1000px;
+}
+#isi {
+	color: black;
+	background-color: grey;
+	opacity: 80%;
+	height: 360px;
+	width: 500px;
+	margin-left: 440px;
+	padding-top: 15px;
+	border-radius: 10px;
+	font-family: ;
+}
+.judul {
+	font-size: 30px;
+}
+#wall {
+	color: white;
+	opacity: 50px;
+	width: 300px;
+	height: 200px;
+	padding-top: 150px;
+}
